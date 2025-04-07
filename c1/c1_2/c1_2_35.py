@@ -1,6 +1,6 @@
 # import pandas as pd
 
-word='python'
+word='python1'
 
 # print(word[0:2])
 # print(word[:2])
